@@ -1,6 +1,4 @@
-- Hello! My name is Yogesh Beniwal.
-- I’m currently an undergraduate Aerospace Engineering student at IIT Bombay.
-- You can reach me @ beniwalyogesh17@gmail.com
+Hello! I'm a passionate engineer with a strong aerospace engineering and data science background. I specialize in flight mechanics, control theory, and customer segmentation. My journey in the tech world has been fueled by my curiosity and a desire to solve complex problems through innovative solutions.
 
 <!---
 beni1717/beni1717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
